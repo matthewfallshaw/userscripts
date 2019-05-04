@@ -1,11 +1,16 @@
 // ==UserScript==
 // @name         Wikipedia mobile redirector
 // @namespace    http://fallshaw.me/
-// @version      0.1
 // @description  Redirect m.* pages to their desktop versions
+// @version      0.2
+// @homepage     https://github.com/matthewfallshaw/userscripts/blob/master/WikipediaMobileRedirector/Wikipedia%20mobile%20redirector.user.js
+// @updateURL    https://github.com/matthewfallshaw/userscripts/raw/master/WikipediaMobileRedirector/Wikipedia%20mobile%20redirector.user.js
+// @downloadURL  https://github.com/matthewfallshaw/userscripts/raw/master/WikipediaMobileRedirector/Wikipedia%20mobile%20redirector.user.js
+// @supportURL   https://github.com/matthewfallshaw/userscripts/issues
+// @contributionURL https://intelligence.org/donate/
 // @author       Matthew Fallshaw
-// @match        http*://en.m.wikipedia.org/*
 // @copyright    https://creativecommons.org/licenses/by/4.0/
+// @match        http*://en.m.wikipedia.org/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
