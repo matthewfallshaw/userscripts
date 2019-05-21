@@ -2,7 +2,7 @@
 // @name         Hammerspoon redirector
 // @namespace    http://fallshaw.me/
 // @description  Open SSB links in SSB (Epichrome or Fluid) apps
-// @version      0.3
+// @version      0.4
 // @homepage     https://github.com/matthewfallshaw/userscripts/blob/master/HammerspoonRedirector/Hammerspoon%20redirector.user.js
 // @updateURL    https://github.com/matthewfallshaw/userscripts/raw/master/HammerspoonRedirector/Hammerspoon%20redirector.user.js
 // @downloadURL  https://github.com/matthewfallshaw/userscripts/raw/master/HammerspoonRedirector/Hammerspoon%20redirector.user.js
@@ -15,6 +15,7 @@
 // @match        *://www.pivotaltracker.com/dashboard
 // @match        *://www.pivotaltracker.com/reports/*
 // @match        *://www.pivotaltracker.com/projects/*
+// @match        *://www.pivotaltracker.com/epic/*
 // @match        *://app.asana.com/*
 // @match        *://morty.trikeapps.com/*
 // @match        *://app.greenhouse.io/*
