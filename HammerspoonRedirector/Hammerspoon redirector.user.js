@@ -22,6 +22,7 @@
 // @match        *://workflowy.com/*
 // @match        *://www.google.com/calendar/*
 // @match        *://calendar.google.com/*
+// @match        *://meet.google.com/*
 // @grant        window.close
 // @run-at       document-start
 // ==/UserScript==
