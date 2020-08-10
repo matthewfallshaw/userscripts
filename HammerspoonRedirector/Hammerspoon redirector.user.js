@@ -18,8 +18,6 @@
 // @match        *://www.pivotaltracker.com/epic/*
 // @match        *://app.asana.com/*
 // @match        *://morty.trikeapps.com/*
-// @match        *://app.greenhouse.io/*
-// @match        *://workflowy.com/*
 // @match        *://www.google.com/calendar/*
 // @match        *://calendar.google.com/*
 // @match        *://meet.google.com/*
