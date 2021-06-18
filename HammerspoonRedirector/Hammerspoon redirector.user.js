@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Hammerspoon redirector
 // @namespace    http://fallshaw.me/
-// @description  Open SSB links in SSB (Epichrome or Fluid) apps
-// @version      0.7
+// @description  Open Single Site Browser links in SSB apps
+// @version      0.8
 // @homepage     https://github.com/matthewfallshaw/userscripts/blob/master/HammerspoonRedirector/Hammerspoon%20redirector.user.js
 // @updateURL    https://github.com/matthewfallshaw/userscripts/raw/master/HammerspoonRedirector/Hammerspoon%20redirector.user.js
 // @downloadURL  https://github.com/matthewfallshaw/userscripts/raw/master/HammerspoonRedirector/Hammerspoon%20redirector.user.js
@@ -11,6 +11,7 @@
 // @author       Matthew Fallshaw
 // @copyright    https://creativecommons.org/licenses/by/4.0/
 // @match        *://app.asana.com/*
+// @exclude      *://app.asana.com/-/login*
 // @match        *://www.google.com/calendar/*
 // @match        *://calendar.google.com/*
 // @match        *://meet.google.com/*
